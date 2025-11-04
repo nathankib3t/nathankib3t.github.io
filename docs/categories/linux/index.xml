@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Nathan blog&#39;s</title>
+    <link>https://nk1b3t.github.io/categories/linux/</link>
+    <description>Recent content in Linux on Nathan blog&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Nathan</copyright>
+    <lastBuildDate>Wed, 29 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://nk1b3t.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Record and Share Terminal Sessions Using Asciinema</title>
+      <link>https://nk1b3t.github.io/posts/asciinema/</link>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://nk1b3t.github.io/posts/asciinema/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nk1b3t.github.io/posts/asciinema/cover.webp" />
+    </item>
+    
+  </channel>
+</rss>
