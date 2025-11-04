@@ -1,10 +1,10 @@
 +++
-title= "How to Record and Share Terminal Sessions Using Asciinema"
+title= "Record Terminal Sessions Using Asciinema"
 date= 2025-10-29
 draft= false
 categories= ["Linux", "Terminal", "Tools"]
 tags= ["Terminal", "Tools", "Writeup"]
-featuredImage= "cover.webp"
+featuredImage= "ee.webp"
 +++
 
 If you’ve ever wanted to record your terminal sessions for documentation, demos, or tutorials — without using bulky screen recorders — `asciine>
