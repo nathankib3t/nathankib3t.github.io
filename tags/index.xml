@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nate</title>
-    <link>https://nk1b3t.github.io/tags/</link>
-    <description>Recent content in Tags on Nate</description>
+    <title>Tags on Nat3</title>
+    <link>https://0xnat3.github.io/tags/</link>
+    <description>Recent content in Tags on Nat3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 Nathan Kibet</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://nk1b3t.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Nathan</copyright>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://0xnat3.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cti</title>
-      <link>https://nk1b3t.github.io/tags/cti/</link>
+      <link>https://0xnat3.github.io/tags/cti/</link>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://nk1b3t.github.io/tags/cti/</guid>
+      <guid>https://0xnat3.github.io/tags/cti/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Threat Actors</title>
-      <link>https://nk1b3t.github.io/tags/threat-actors/</link>
+      <link>https://0xnat3.github.io/tags/threat-actors/</link>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://nk1b3t.github.io/tags/threat-actors/</guid>
+      <guid>https://0xnat3.github.io/tags/threat-actors/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Threat-Intel</title>
-      <link>https://nk1b3t.github.io/tags/threat-intel/</link>
+      <link>https://0xnat3.github.io/tags/threat-intel/</link>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://nk1b3t.github.io/tags/threat-intel/</guid>
+      <guid>https://0xnat3.github.io/tags/threat-intel/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Firewall</title>
-      <link>https://nk1b3t.github.io/tags/firewall/</link>
+      <link>https://0xnat3.github.io/tags/firewall/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://nk1b3t.github.io/tags/firewall/</guid>
+      <guid>https://0xnat3.github.io/tags/firewall/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>NIDS</title>
-      <link>https://nk1b3t.github.io/tags/nids/</link>
+      <link>https://0xnat3.github.io/tags/nids/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://nk1b3t.github.io/tags/nids/</guid>
+      <guid>https://0xnat3.github.io/tags/nids/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PfSense</title>
-      <link>https://nk1b3t.github.io/tags/pfsense/</link>
+      <link>https://0xnat3.github.io/tags/pfsense/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://nk1b3t.github.io/tags/pfsense/</guid>
+      <guid>https://0xnat3.github.io/tags/pfsense/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Snort</title>
-      <link>https://nk1b3t.github.io/tags/snort/</link>
+      <link>https://0xnat3.github.io/tags/snort/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://nk1b3t.github.io/tags/snort/</guid>
+      <guid>https://0xnat3.github.io/tags/snort/</guid>
       <description></description>
       
     </item>

@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Nate</title>
-    <link>https://nk1b3t.github.io/categories/</link>
-    <description>Recent content in Categories on Nate</description>
+    <title>Categories on Nat3</title>
+    <link>https://0xnat3.github.io/categories/</link>
+    <description>Recent content in Categories on Nat3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 Nathan Kibet</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://nk1b3t.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Nathan</copyright>
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://0xnat3.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Security</title>
-      <link>https://nk1b3t.github.io/categories/security/</link>
+      <link>https://0xnat3.github.io/categories/security/</link>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://nk1b3t.github.io/categories/security/</guid>
+      <guid>https://0xnat3.github.io/categories/security/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cybersecurity</title>
-      <link>https://nk1b3t.github.io/categories/cybersecurity/</link>
+      <link>https://0xnat3.github.io/categories/cybersecurity/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://nk1b3t.github.io/categories/cybersecurity/</guid>
+      <guid>https://0xnat3.github.io/categories/cybersecurity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Home Lab</title>
-      <link>https://nk1b3t.github.io/categories/home-lab/</link>
+      <link>https://0xnat3.github.io/categories/home-lab/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://nk1b3t.github.io/categories/home-lab/</guid>
+      <guid>https://0xnat3.github.io/categories/home-lab/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://nk1b3t.github.io/categories/linux/</link>
+      <link>https://0xnat3.github.io/categories/linux/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://nk1b3t.github.io/categories/linux/</guid>
+      <guid>https://0xnat3.github.io/categories/linux/</guid>
       <description></description>
       
     </item>
