@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Nathan's blog"
+title = "Nate's Blog"
 
 [params]
   displayName = "EN"
@@ -15,11 +15,11 @@ title = "Nathan's blog"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Nathan"
+   name = "0xnat3"
 #   email = "youremail@example.com"
-   image = "img/profile.jpg"
+   image = "img/proff.jpg"
 #   imageQuality = 96
-   headline = "I am only human"
+   headline = "👾👨🏽‍💻"
 #   bio = "A little bit about you"
    links = [
 #     { email = "mailto:hello@your_domain.com" },
@@ -45,7 +45,7 @@ title = "Nathan's blog"
 #     { keyoxide = "https://keyoxide.org/URI" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-     { linkedin = "https://linkedin.com/in/nathankibet" },
+#     { linkedin = "https://linkedin.com/in/username" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },
@@ -67,7 +67,7 @@ title = "Nathan's blog"
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
-     { twitter = "https://twitter.com/nk1b3t" },
+#     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
