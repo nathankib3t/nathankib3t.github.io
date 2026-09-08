@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PfSense on Nate&#39;s Blog</title>
-    <link>https://0xnat3.github.io/tags/pfsense/</link>
+    <link>https://nathankib3t.github.io/tags/pfsense/</link>
     <description>Recent content in PfSense on Nate&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2026 Nathan</copyright>
-    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://0xnat3.github.io/tags/pfsense/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 Nathan Kibet</copyright>
+    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://nathankib3t.github.io/tags/pfsense/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Building a Network Intrusion Detection System (IDS) Lab with Snort</title>
-      <link>https://0xnat3.github.io/posts/lab/</link>
+      <link>https://nathankib3t.github.io/posts/lab/</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://0xnat3.github.io/posts/lab/</guid>
+      <guid>https://nathankib3t.github.io/posts/lab/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://0xnat3.github.io/posts/lab/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nathankib3t.github.io/posts/lab/feature.jpg" />
     </item>
     
   </channel>
