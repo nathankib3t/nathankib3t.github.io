@@ -15,11 +15,11 @@ title = "Nate's Blog"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "0xnat3"
+   name = "Nathan Kibet"
 #   email = "youremail@example.com"
    image = "img/proff.jpg"
 #   imageQuality = 96
-   headline = "👾👨🏽‍💻"
+   headline = "CyberSecurity | InforSec | Threat Intelligence"
 #   bio = "A little bit about you"
    links = [
 #     { email = "mailto:hello@your_domain.com" },
